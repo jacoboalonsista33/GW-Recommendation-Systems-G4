@@ -223,7 +223,7 @@ Ultimately, the best deployment strategy for Instacart is not just one algorithm
 
 Each team member took primary ownership of specific components of the project while all members participated in the overall discussion, validation, and final report writing.
 
-1. **Paula Candiles:** Did the Content Based Recommender and the Business Case. 
+1. **Paula Candiles:** Did the Content-Based Recommender, the Business Case, analyze the cold start problem and bias mitigation approach.
 2. **Jacobo Galindo:** Did the Non-personalised Recommender and Collaborative Filtering Recommender parts.  
 3. **Javier López-Usero:** Did the Context Aware recommender.
 4. **Samer Roz:** Did the Final Evaluation.  
