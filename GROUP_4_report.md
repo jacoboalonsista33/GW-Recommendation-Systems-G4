@@ -223,11 +223,11 @@ Ultimately, the best deployment strategy for Instacart is not just one algorithm
 
 Each team member took primary ownership of specific components of the project while all members participated in the overall discussion, validation, and final report writing.
 
-1. **Paula Candiles:** did the content-based recommender (Section 5), Section 8 (Business Case & Deployment Design), Section 9 (Cold-Start & Bias Mitigation), and Section 10 (Conclusions).  
+1. **Paula Candiles:** Did the Content Based Recommender and the Business Case. 
 2. **Jacobo Galindo:** Did the Non-personalised Recommender and Collaborative Filtering Recommender parts.  
-3. **Javier López-Usero:** Led data preprocessing and feature engineering (Section 2\) and coordinated the overall evaluation framework in `05_evaluation.ipynb`. Contributed to Section 1 (Domain Analysis).  
-4. **Samer Roz:** Led the collaborative filtering recommender (Section 4), including the sparse interaction matrix, item similarity computation, and ranking evaluation.   
-5. **Pablo Torres:** Led the non-personalized recommender (Section 3), implementing all three baseline strategies and the Bayesian scoring approach. 
+3. **Javier López-Usero:** Did the Context Aware recommender.
+4. **Samer Roz:** Did the Final Evaluation.  
+5. **Pablo Torres:** Did the Context Aware recommender.
 
 To guarantee consistency and quality throughout all sections, every team member participated in the writing of the final report, the discussion of findings, and the validation of the overall strategy.
 
